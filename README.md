@@ -9,5 +9,5 @@
 
 //AFNetWorking 3.0 删除了所有基于NSURLConnection 的代码,全部使用NSURLSession
 
-这里是做了个小练习，使用NSURLSession完成上传与下载
+这里是做了个小练习，使用NSURLSession完成上传
 
